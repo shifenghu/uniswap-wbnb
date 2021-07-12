@@ -9,9 +9,9 @@
   "tokens": [
     {
       "chainId": 97,
-      "address": "0x016b87ba21a799D18AaAD5CDEaEd64aC5238c99F",
-      "name": "Huge Token",
-      "symbol": "HUGE",
+      "address": "0xfBc116Cc1111671E1F0A358e20ec2781F2b9A851",
+      "name": "Huge Token v3",
+      "symbol": "HUGE3",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
